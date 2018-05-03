@@ -1,0 +1,1 @@
+This project is an example of a publication of the blog [80bits](http://80bits.com)
